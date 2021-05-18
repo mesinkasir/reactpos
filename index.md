@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+# REACTPOS
 
-You can use the [editor on GitHub](https://github.com/mesinkasir/reactpos/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![reactpos apps point of sale build with react](https://a.fsdn.com/con/app/proj/reactpos/screenshots/reactpos%20point%20of%20sale%20build%20with%20react.png/max/max/1)
+Simple learn react with build pos apps calculator digital.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Cek demo video here](https://www.youtube.com/watch?v=_Ar0DM0OHVI)
 
-### Markdown
+Donwload and tutorial documentation
+[https://www.hockeycomputindo.com/2021/01/free-download-react-pos-point-of-sale.html](https://www.hockeycomputindo.com/2021/01/free-download-react-pos-point-of-sale.html)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+How to install :
+need third party apps 
++ Git
++ NPM
++ React
 
-```markdown
-Syntax highlighted code block
+Then download reactpos apps source code [download now](https://www.hockeycomputindo.com/2021/01/free-download-react-pos-point-of-sale.html)
 
-# Header 1
-## Header 2
-### Header 3
+Run command :
+npm i && npm start
 
-- Bulleted
-- List
+now you can using react pos apps digital calculator for supporting your bussiness.
 
-1. Numbered
-2. List
+Happy codding....
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mesinkasir/reactpos/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
