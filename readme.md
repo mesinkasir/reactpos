@@ -1,6 +1,6 @@
 # REACTPOS
 
-![reactpos apps point of sale build with react](https://a.fsdn.com/con/app/proj/reactpos/screenshots/reactpos%20point%20of%20sale%20build%20with%20react.png/max/max/1)
+![reactpos apps point of sale build with react](https://1.bp.blogspot.com/-TybcTBZxRiQ/YAmy7He3wLI/AAAAAAAAMgk/KUfJRzK46R8_6_QzOh6MAwvAxWh0SMlCgCLcBGAsYHQ/s1349/reactpos%2Bpoint%2Bof%2Bsale%2Bbuild%2Bwith%2Breact.png)
 Simple learn react with build pos apps calculator digital.
 
 [Cek demo video here](https://www.youtube.com/watch?v=_Ar0DM0OHVI)
